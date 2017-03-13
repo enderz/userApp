@@ -2,6 +2,7 @@ package AppLayer;
 /**
  * Created by jonb on 12/03/17.
  * Holds user information
+ * The user skabelon
  */
 public class User
 {
